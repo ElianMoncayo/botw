@@ -1,0 +1,106 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491138696006@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1A558A6A85FCBA0FB8',
+    participant: undefined
+  },
+  messageTimestamp: 1722529860,
+  pushName: 'Lucila Leoni🧿',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491138696006'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d8d98aff-9d6c-4518-9e10-f67bb6223c53',
+  keyword: 'key_59d573c6-fe0d-4cde-9504-8ffeeaa11ef2',
+  answer: '🙌 ¡Hola! Estás hablando con *PERFUCASA*. ¿En qué podemos ayudarte? ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 5000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a11ecd7fa3a88780c49e538268fb97e1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ad6e82c1-e655-4dc3-86b7-fed4dbbb725f',
+  keyword: 'ans_d8d98aff-9d6c-4518-9e10-f67bb6223c53',
+  answer: 'Dependiendo el motivo de su consulta, escriba el número según la opción deseada 😄\n' +
+    '👉 1. *Reclamos* para reclamar un fallo en un producto o un faltante en su paquete\n' +
+    '👉 2. *Precios*  para consultar el valor de nuestros productos\n' +
+    '👉 3. *Contactar* para contactarte directamente con uno de nuestros asesores\n' +
+    '👉 4. *Redes* para ver nuestras redes\n' +
+    '👉 5. *Direccion* para ver la dirección de nuestro local y nuestros horarios de apertura/cierre\n' +
+    '👉 6. *Preguntas* para mostrar las preguntas más frecuentes de nuestros clientes\n' +
+    '\n' +
+    '\n' +
+    '👉 0. *Salir* para salir de este menú',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '80c0bcdfbd8eed697699fb7e3978d626'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491138696006@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA80C48A14D39A1166E',
+    participant: undefined
+  },
+  messageTimestamp: 1722529894,
+  pushName: 'Lucila Leoni🧿',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '5491138696006'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491138696006@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8F88FBBDABDC1107F2',
+    participant: undefined
+  },
+  messageTimestamp: 1722529915,
+  pushName: 'Lucila Leoni🧿',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: '1',
+  from: '5491138696006'
+}
